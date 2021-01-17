@@ -41,3 +41,4 @@ target/
 local.properties
 !/gradlew.bat
 !/gradlew
+!/gradle/
